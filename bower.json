@@ -1,0 +1,22 @@
+{
+  "name": "CreteJS-VScode",
+  "homepage": "https://github.com/Cldiaz/CreateJSBoilerPlate-vsode",
+  "authors": [
+    "Cindy Diaz <cindy.liliana.diaz@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
